@@ -1,0 +1,16 @@
+PODS:
+  - HQCPinView (0.1.0)
+
+DEPENDENCIES:
+  - HQCPinView (from `../`)
+
+EXTERNAL SOURCES:
+  HQCPinView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HQCPinView: 7f2368f7fd48ef86952f8926dbb1f17a4c80d0cd
+
+PODFILE CHECKSUM: 17294c71b53f7e3a95c7b760d16f595120f61c63
+
+COCOAPODS: 1.15.2
